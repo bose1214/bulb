@@ -1,0 +1,40 @@
+body{
+    background: black;
+    color:white;
+}
+.container{
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+img{
+    height: 300px;
+    width: 250px;
+    margin-top: 50px;
+}
+.btn{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+#btn1{
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+    border-color: transparent;
+    background:white;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+}
+#btn2{
+    height: 50px;
+    width: 100px;
+    border-radius: 50px;
+    border-color: transparent;
+    background:white;
+    color: black;
+    font-size: larger;
+    font-weight: bolder
+}
